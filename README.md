@@ -33,9 +33,3 @@ I'm a **Computer Science** professional and passionate **Front-End Developer**. 
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,laravel,php,mysql,git,github&theme=dark" alt="Tech Stack" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&font_color=58A6FF" alt="Quote"/>
-</div>
