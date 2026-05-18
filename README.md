@@ -63,41 +63,8 @@ I enjoy solving problems, learning new technologies, and creating clean user exp
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeyadsh-sx&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</div>
 
----
-
-## 🔥 Featured Projects
-
-### 🛒 Store Management System
-**React.js & Laravel**  
-A comprehensive store management system with authentication, product management, dashboard analytics, and responsive UI.
-
-### 🤖 VisionAttend AI Project  
-**AI & Web Development**  
-AI-powered attendance system using computer vision and web technologies.
-
-### 🗄️ Database Systems  
-**MySQL & Laravel**  
-Database design and implementation projects for various applications.
-
-### 🌐 CCNA Labs & Networking  
-**Networking & Cybersecurity**  
-Practical networking labs and CCNA practice configurations.
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeyadsh-sx&theme=radical" alt="Activity Graph"/>
-</div>
-
----
 
 ## 📫 Connect With Me
 
@@ -119,21 +86,3 @@ Practical networking labs and CCNA practice configurations.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </div>
 
-<div align="center">
-  <i>⚡ "Building the future, one commit at a time" ⚡</i>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVI4vZ8Iw/giphy.gif" width="200" alt="Coding"/>
-</div>
-
-**Pronouns:** He/Him  
-**Location:** Egypt 🇪🇬
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/zeyadsh-sx">Ziad Shehata</a></sub>
-</div>
