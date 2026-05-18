@@ -3,20 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,1&height=250&section=header&text=Zeyad%20Mohammed&fontSize=70&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20%7C%20Laravel&descAlignY=55&descSize=20" alt="Zeyad Mohammed Header" width="100%"/>
 </div>
 
-<!-- Social & Views -->
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/zeyadsh-sx">
-    <img src="https://komarev.com/ghpvc/?username=zeyadsh-sx&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  </a>
-</div>
-
----
 
 ###  About Me
 I'm a **Computer Science** professional and passionate **Front-End Developer**. I focus on building scalable, modern, and responsive web applications with **React.js** and **Laravel**.
