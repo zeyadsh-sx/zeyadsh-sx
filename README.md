@@ -1,72 +1,31 @@
-# Hi, I'm Ziad Shehata 👋
+# Hi, I'm Zeyad Mohammed Shehata 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zeyadsh-sx&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
-💻 Junior Front-End Developer | React & Laravel  
-🔐 Cybersecurity Learner | 🚀 Building real-world web & AI projects  
-📚 Computer Science Student  
-🔥 Building real-world projects and learning every day
+ Junior Front-End Developer | React & Laravel  
+ Cybersecurity Learner | 🚀 Building real-world web & AI projects  
+ Computer Science Student  
+ Building real-world projects and learning every day
 
----
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate Front-End Developer with a Computer Science background, focused on building modern web applications using React.js and Laravel. Currently learning cybersecurity and networking while developing real-world projects including AI attendance systems, store management systems, and database applications.
 
 I enjoy solving problems, learning new technologies, and creating clean user experiences.
 
-🎯 Open to internships, freelance opportunities, and collaborations.
+ Open to internships, freelance opportunities, and collaborations.
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,laravel,mysql,git,github" alt="Tech Stack" />
 </div>
 
-### Front-End Development
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-- Responsive Design
-
-### Back-End Development
-- Laravel (PHP)
-- MySQL
-- RESTful APIs
-
-### Tools & Version Control
-- Git & GitHub
-- VS Code
-- Postman
-
-### Cybersecurity & Networking
-- CCNA Networking Basics
-- Cybersecurity Fundamentals
-- Network Security Labs
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeyadsh-sx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ziad's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadsh-sx&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadsh-sx&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
-
-
-
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
