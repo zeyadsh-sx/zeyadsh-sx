@@ -5,8 +5,6 @@
 </div>
 
  Junior Front-End Developer | React & Laravel  
- Cybersecurity Learner | 🚀 Building real-world web & AI projects  
- Computer Science Student  
  Building real-world projects and learning every day
 
 
