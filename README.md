@@ -4,12 +4,7 @@
 </div>
 
 
-###  About Me
-I'm a **Computer Science** professional and passionate **FullStack Developer**. I focus on building scalable, modern, and responsive web applications with **React.js** and **Laravel**.
 
--  Currently building **real-world SaaS products** (AI Attendance Systems, Store Management).
--  Expanding knowledge in **Cybersecurity & Networking**.
--  Open to **internships, freelance work, and collaborations**.
 
 <br>
 
